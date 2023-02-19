@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../img/kr-night.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+}
+
+.rel{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 120px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.white-cov{
+    background: white;
+    background-attachment: fixed;
+    background-position: center;
+    padding-bottom: 600px;
+}
